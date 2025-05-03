@@ -1,4 +1,2 @@
 #!/bin/bash
-
-# Install conda and pip packages (this installs sourmash and dependencies)
 pip install sourmash
