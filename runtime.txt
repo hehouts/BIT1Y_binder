@@ -1,2 +1,1 @@
-# Specifies the R version Binder should use. This sets up an RStudio environment with R 4.3.3 (released Feb 2024)
 r-2024-04-01
