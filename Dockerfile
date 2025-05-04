@@ -4,7 +4,7 @@ FROM rocker/binder:4.2.2
 COPY install.R /tmp/install.R
 RUN Rscript /tmp/install.R
 
-COPY . /home/rstudio/
+COPY . /home/aggie/
 
 # Default to user rstudio for Binder
 USER aggie
